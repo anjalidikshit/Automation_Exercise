@@ -1,0 +1,1 @@
+This app is a prototype to help me manage my day or tasks. I plan on expanding it to JIRA or other story boards where we can swap , change or snooze a task based on what we planned.

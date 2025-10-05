@@ -1,4 +1,3 @@
-import time
 import logging
 
 logging.basicConfig(filename='../logs/device_logs.txt', level=logging.INFO, format='%(asctime)s - %(message)s')

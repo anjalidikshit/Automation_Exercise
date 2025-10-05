@@ -1,4 +1,5 @@
-import pytest
+import sys, os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from devices.light_device import LightDevice
 
 def test_light_initial_state():

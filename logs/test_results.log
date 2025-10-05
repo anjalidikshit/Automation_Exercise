@@ -1,0 +1,13 @@
+INFO     root:light_device.py:12 Living Room turned ON
+INFO     root:light_device.py:12 Living Room turned ON
+INFO     root:light_device.py:16 Living Room turned OFF
+INFO     root:temp_sensor.py:14 Bedroom temperature reading: 22.03 °C
+INFO     root:temp_sensor.py:14 Bedroom temperature reading: 16.75 °C
+INFO     root:temp_sensor.py:14 Bedroom temperature reading: 22.07 °C
+INFO     root:temp_sensor.py:14 Bedroom temperature reading: 15.93 °C
+INFO     root:temp_sensor.py:14 Bedroom temperature reading: 20.87 °C
+INFO     root:temp_sensor.py:14 Bedroom temperature reading: 27.49 °C
+INFO     root:temp_sensor.py:14 Bedroom temperature reading: 26.71 °C
+INFO     root:temp_sensor.py:14 Bedroom temperature reading: 21.02 °C
+INFO     root:temp_sensor.py:14 Bedroom temperature reading: 25.23 °C
+INFO     root:temp_sensor.py:14 Bedroom temperature reading: 28.35 °C

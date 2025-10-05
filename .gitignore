@@ -1,5 +1,33 @@
+<<<<<<< HEAD
 build/
 DerivedData/
 *.xcuserstate
 *.xcuserdata/
 *.xcworkspace
+=======
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.log
+logs/
+
+# Ignore test/coverage/temp files
+.pytest_cache/
+.coverage
+
+# Ignore VSCode and OS junk
+.vscode/
+.DS_Store
+
+# Ignore environment folders
+venv/
+env/
+.env/
+
+# Ignore GitHub workflow cache if any
+.github/workflows/__pycache__/
+
+# Ignore build or dependency folders
+build/
+dist/
+>>>>>>> b5b2371 (IoT_home_first_draft)

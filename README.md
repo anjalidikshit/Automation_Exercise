@@ -6,7 +6,7 @@ Simulates IoT devices (lights and temperature sensors) and automates testing for
 ## Features
 - LightDevice: Turn ON/OFF lights, toggle state
 - TempSensor: Generate random temperature readings
-- Logging: Device events saved in logs/device_logs.txt
+- Logging: Device events saved in logs/test_results.logs
 - Automation: Pytest unit tests for devices
 - CI/CD: GitHub Actions workflow runs tests automatically
 
